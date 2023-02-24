@@ -6,7 +6,7 @@
 ## Steps:
 1- Build the infrastructure on GCP
 ```
-git clone https://github.com/Radwa-Hesham22/GCP-Project.git
+git clone https://github.com/Radwa-Hesham22/infra-final.git
 terraform init 
 terraform plan
 terraform apply 
